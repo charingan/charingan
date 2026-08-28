@@ -1,19 +1,19 @@
 ## Hey, I'm Hamza ✨
 
-Web Developer • 3D Generalist • Game Developer • Drone Show Designer
-I'm a developer and 3D artist who enjoys working across both code and creative work.
+Web Developer • 3D Generalist • Game Developer • Drone Show Designer</br>
+I'm a developer and 3D artist who enjoys working across both code and creative work.</br>
 
-💻 Web Development
-I build web applications and enjoy working with modern frontend and backend technologies.
+💻 ***Web Development***</br>
+I build web applications and enjoy working with modern frontend and backend technologies.</br>
 
-🎮 Game Development
-In my free time, I experiment with game development using C++ and Unreal Engine, exploring gameplay systems and the technical side of game creation.
+🎮 ***Game Development***</br>
+In my free time, I experiment with game development using C++ and Unreal Engine, exploring gameplay systems and the technical side of game creation.</br>
 
-🛸 Drone Shows
-Currently, I'm working as a Drone Show Designer, creating formations, animations, and visual concepts using Blender [@DroneCastCompany](https://www.dronecast.io/).
+🛸 ***Drone Shows***</br>
+Currently, I'm working as a Drone Show Designer, creating formations, animations, and visual concepts using Blender [@DroneCastCompany](https://www.dronecast.io/).</br>
 
-🎨 3D Art
-I'm a 3D Generalist with an interest in pretty much everything 3D — from modeling and environments to animation, lighting, and visual design.
+🎨 3D Art</br>
+I'm a 3D Generalist with an interest in pretty much everything 3D — from modeling and environments to animation, lighting, and visual design.</br>
 
 
 ## 🌐 Socials:
