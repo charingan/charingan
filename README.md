@@ -1,6 +1,6 @@
 ## Hey, I'm Hamza ✨
 
-Web Developer • 3D Generalist • Game Developer • Drone Show Designer</br>
+3D Generalist • Web Developer • Game Developer • Drone Show Designer</br>
 I'm a developer and 3D artist who enjoys working across both code and creative work.</br>
 
 💻 ***Web Development***</br>
